@@ -1,6 +1,6 @@
 //Evan Garvey
 //SoftwareEngW/Test
-
+//ugly
 package ie.gmit;
 
 public class calculator {
