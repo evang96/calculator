@@ -1,11 +1,6 @@
 //Evan Garvey
 //SoftwareEngW/Test
-//Paul Lennon
-//Hi
-//Beng
-//G00322695
-//New
-//Test
+
 package ie.gmit;
 
 public class calculator {
